@@ -1,2 +1,2 @@
-# FirstPtyhon
+# FirstPython
 CS110
